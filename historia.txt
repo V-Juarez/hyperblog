@@ -2,3 +2,6 @@ Reinicio de configuracion de git, la primera version se me a perdido y es un fas
 
 luego nos vemos campeon, que el tiempo apremia al que quiere aprender.
 
+regulando la actualizaciones en git, que se esta volviendo complejo.
+
+
