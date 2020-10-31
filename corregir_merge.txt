@@ -1,0 +1,5 @@
+borrar las lineas y elegir una opcion.
+git commit -am "Mensaje"
+y no olvidar en guardar la actualizacion en editor de codigo.
+
+Traer el codigo y al equipo, y verificar eligiendo la accion y resolver el problema
